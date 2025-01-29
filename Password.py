@@ -7,7 +7,7 @@ Instructions:
 1.  Before running the program, predict what it will
     do. Check your prediction by running the program
     and entering a variety of values.
-2.  Add a breakpoint to the program on line . Run the
+2.  Add a breakpoint to the program on line 20. Run the
     program in debugging mode. Try entering the password.
     Does the if or else execute? Re-run the program and
     try entering something other than the password. Does
